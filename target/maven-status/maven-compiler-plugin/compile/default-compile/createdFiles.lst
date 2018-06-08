@@ -1,0 +1,3 @@
+org\javaindeapth\exception\ApplicationException.class
+org\javaindeapth\consumer\QueueMessageConsumer.class
+org\javaindeapth\app\Application.class

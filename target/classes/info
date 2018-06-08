@@ -1,0 +1,3 @@
+Command to Install the jar in the local repository of the project
+mvn install:install-file -Dfile=wlclient.jar -DgroupId=com.oracle.weblogic -DartifactId=weblogic -Dversion=1.0 -Dpackaging=jar -DlocalRepository
+Path=repo
